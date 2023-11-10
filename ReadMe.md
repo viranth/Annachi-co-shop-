@@ -10,7 +10,6 @@ This Java program simulates a grocery store management system with stock items a
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Classes](#classes)
-6. [License](#license)
 
 ## Prerequisites
 - Java Development Kit (JDK) 1.8 or higher
@@ -60,7 +59,3 @@ The `Main` class serves as the entry point for the program and provides a menu f
 4. `CartManager` - Manages the shopping cart, enabling users to add, remove, view, manipulate items, and print bills.
 5. `Main` - The main program class that initializes the system, creates instances of `ItemManager` and `CartManager`, and provides a menu-driven interface.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to modify and use this code as needed for your grocery store management system.

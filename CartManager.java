@@ -1,7 +1,7 @@
 
 /**
  * @author VIRANTH DHARMALINGAM
- * @date 7 NOV 2023
+ * @Date 7 NOV 2023
  * @version JAVA 1.8
  * The CartManager class is responsible for managing the shopping cart, allowing users to add,
  * remove, view, and manipulate items in the cart. It also provides a method to generate and
